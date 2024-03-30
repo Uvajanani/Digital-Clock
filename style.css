@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(135, 250, 137);
+}
+
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    margin-top: 44vh;
+    justify-content: center;
+    align-items: center;
+    font-size: 5rem;
+}
+
+
+
+#wrapper{
+    border: 3px solid black;
+    padding: 1rem;
+
+}
+.container span{
+    margin-left: 10px;
+}
+
+#ampm{
+    font-size: 4rem;
+    align-items: end;
+}
+
+
